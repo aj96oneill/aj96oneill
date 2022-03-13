@@ -8,8 +8,8 @@
 ## Projects that are highlighted on my GitHub
 * Machine Learning Algorithms (575 Statistical Machine Learning)
 * Deep Learning with Python (ML Beginner Projects)
+* Dino Fun World Visualizations (578_Data_Visualization)
 * Sudoku Solver
-* Drug Quiz
 
 ## Projects I contributed to and are linked on my Linkedin
 * ASU Spring '22 Hackathon
