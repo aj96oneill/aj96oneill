@@ -1,28 +1,6 @@
 # Hi there, welcome to my GitHub profile 👋
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">](https://www.linkedin.com/in/alexjamesoneill/) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" width="30">](mailto:alexjoneill89@gmail.com) &nbsp; <!---[<img src="" width="30">]()-->
-
-## I'm currently learning about Big Data Systems at ASU's Graduate School
-[Here](https://asuonline.asu.edu/online-degree-programs/graduate/master-big-data/) is more info about the program and what my concentration focuses on.
-
-## Projects that are highlighted on my GitHub
-* Machine Learning Algorithms (575 Statistical Machine Learning)
-* Deep Learning with Python (ML Beginner Projects)
-* Dino Fun World Visualizations (578_Data_Visualization)
-* Sudoku Solver
-
-## Projects I contributed to and are linked on my Linkedin
-* ASU Spring '22 Hackathon
-* Hawaiian Checkers AI
-* CRR Compatible Summarizer Tool
-* V-Finder
-
-### Languages:
-* Python
-* JavaScript
-* C
-
-### Certifications:
+## Certifications:
 * CompTIA Security+
 * CompTIA Project+
 * Certfied Ethical Hacker
